@@ -1,5 +1,5 @@
 #apt
-pip
+pip libsmpeg0 libttspico-utils flac
 libffi-dev libssl-dev portaudio19-dev build-essential 
 libatlas3-base mplayer wget vim sudo locales alsa-base alsa-utils 
 pulseaudio-utils libasound2-plugins python3-pyaudio libasound-dev 
